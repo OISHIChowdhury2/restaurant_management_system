@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\projectoopSln\projectoop\bin\Debug\projectoop.exe.config
+C:\Users\Asus\Desktop\projectoopSln\projectoop\bin\Debug\projectoop.exe
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.feedback.resources
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.Form1.resources
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.Form2.resources
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.Form3.resources
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.Form5.resources
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.orderlist.resources
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.Properties.Resources.resources
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.exe
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.pdb
+C:\Users\Asus\Desktop\projectoopSln\projectoop\bin\Debug\projectoop.pdb
+C:\Users\Asus\Desktop\projectoopSln\projectoop\obj\Debug\projectoop.csprojResolveAssemblyReference.cache
